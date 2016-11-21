@@ -1,0 +1,23 @@
+body {
+	background:#ffe;
+	font-family:helvetica;
+}
+
+header {
+	background: blue;
+	padding: 15px;
+}
+
+section {
+	width:30%;
+	background: green;
+	padding:10px;
+	float: right;
+}
+
+aside {
+	width:60%;
+	margin-right:1%;
+	background-size: cover;
+	padding-top: 10px;
+}
